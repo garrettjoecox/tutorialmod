@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_left_open",
+  "textures": {
+    "bottom": "tutorialmod:block/tin_door_bottom",
+    "top": "tutorialmod:block/tin_door_top"
+  }
+}

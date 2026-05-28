@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "tin",
+  "ingredient": "tutorialmod:raw_tin",
+  "result": {
+    "id": "tutorialmod:tin"
+  }
+}

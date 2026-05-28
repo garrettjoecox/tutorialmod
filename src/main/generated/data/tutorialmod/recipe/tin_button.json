@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "group": "tin",
+  "ingredients": [
+    "tutorialmod:tin"
+  ],
+  "result": {
+    "id": "tutorialmod:tin_button"
+  }
+}

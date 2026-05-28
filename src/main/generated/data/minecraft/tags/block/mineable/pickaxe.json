@@ -1,0 +1,18 @@
+{
+  "values": [
+    "tutorialmod:tin_block",
+    "tutorialmod:raw_tin_block",
+    "tutorialmod:tin_ore",
+    "tutorialmod:tin_deepslate_ore",
+    "tutorialmod:tin_nether_ore",
+    "tutorialmod:tin_end_ore",
+    "tutorialmod:magic_block",
+    "tutorialmod:tin_stairs",
+    "tutorialmod:tin_slab",
+    "tutorialmod:tin_fence",
+    "tutorialmod:tin_fence_gate",
+    "tutorialmod:tin_wall",
+    "tutorialmod:tin_door",
+    "tutorialmod:tin_trapdoor"
+  ]
+}

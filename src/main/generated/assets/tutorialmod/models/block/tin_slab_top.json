@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "tutorialmod:block/tin_block",
+    "side": "tutorialmod:block/tin_block",
+    "top": "tutorialmod:block/tin_block"
+  }
+}

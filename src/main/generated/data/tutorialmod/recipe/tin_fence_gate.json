@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "tin",
+  "key": {
+    "#": "minecraft:stick",
+    "W": "tutorialmod:tin"
+  },
+  "pattern": [
+    "#W#",
+    "#W#"
+  ],
+  "result": {
+    "id": "tutorialmod:tin_fence_gate"
+  }
+}

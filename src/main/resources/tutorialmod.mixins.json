@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "dev.punkdawg12.tutorialmod.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

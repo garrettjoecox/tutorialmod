@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "tin",
+  "ingredients": [
+    "tutorialmod:tin",
+    "minecraft:stick"
+  ],
+  "result": {
+    "count": 4,
+    "id": "tutorialmod:raw_tin"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "item.tutorialmod.tin": "Tin",
+  "item.tutorialmod.raw_tin": "Raw Tin",
+  "item.tutorialmod.chisel": "Chisel",
+  "item.tutorialmod.strawberry": "Strawberry",
+  "item.tutorialmod.combustible_spores": "Combustible Spores",
+
+  "item.tutorialmod.tin_sword": "Tin Sword",
+  "item.tutorialmod.tin_pickaxe": "Tin Pickaxe",
+  "item.tutorialmod.tin_shovel": "Tin Shovel",
+  "item.tutorialmod.tin_axe": "Tin Axe",
+  "item.tutorialmod.tin_hoe": "Tin Hoe",
+  "item.tutorialmod.tin_spear": "Tin Spear",
+
+  "item.tutorialmod.tin_helmet": "Tin Helmet",
+  "item.tutorialmod.tin_chestplate": "Tin Chestplate",
+  "item.tutorialmod.tin_leggings": "Tin Leggings",
+  "item.tutorialmod.tin_boots": "Tin Boots",
+
+
+  "block.tutorialmod.tin_block": "Block of Tin",
+  "block.tutorialmod.raw_tin_block": "Block of Raw Tin",
+  "block.tutorialmod.tin_ore": "Tin Ore",
+  "block.tutorialmod.tin_deepslate_ore": "Tin Deepslate Ore",
+  "block.tutorialmod.tin_nether_ore": "Tin Nether Ore",
+  "block.tutorialmod.tin_end_ore": "Tin End Ore",
+  "block.tutorialmod.magic_block": "Magic Block",
+
+  "block.tutorialmod.tin_stairs": "Tin Stairs",
+  "block.tutorialmod.tin_slab": "Tin Slab",
+  "block.tutorialmod.tin_button": "Tin Button",
+  "block.tutorialmod.tin_pressure_plate": "Tin Pressure Plate",
+  "block.tutorialmod.tin_fence": "Tin Fence",
+  "block.tutorialmod.tin_fence_gate": "Tin Fence Gate",
+  "block.tutorialmod.tin_wall": "Tin Wall",
+  "block.tutorialmod.tin_door": "Tin Door",
+  "block.tutorialmod.tin_trapdoor": "Tin Trapdoor",
+
+
+  "creativemodetab.tutorialmod.tin_items": "Tin Tutorial Items",
+  "creativemodetab.tutorialmod.tin_blocks": "Tin Tutorial Blocks",
+
+  "tooltip.tutorialmod.chisel": "Press §eShift§r for more Information!",
+  "tooltip.tutorialmod.chisel.shift_down": "Chisels Blocks into other Blocks",
+  "tooltip.tutorialmod.strawberry": "This is delicious!",
+  "tooltip.tutorialmod.magic_block": "This block seems quite §2MAGICAL§r"
+
+
+}

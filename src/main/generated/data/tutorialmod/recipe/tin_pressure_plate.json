@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": "tutorialmod:tin"
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "id": "tutorialmod:tin_pressure_plate"
+  }
+}

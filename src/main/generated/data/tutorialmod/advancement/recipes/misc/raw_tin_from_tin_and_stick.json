@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_tin": {
+      "conditions": {
+        "items": [
+          {
+            "items": "tutorialmod:tin"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_stick": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:stick"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "tutorialmod:raw_tin_from_tin_and_stick"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_tin",
+      "has_stick"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "tutorialmod:raw_tin_from_tin_and_stick"
+    ]
+  }
+}
